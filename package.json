@@ -1,0 +1,17 @@
+{
+  "name": "neverlate",
+  "version": "1.0.0",
+  "description": "sms updates to my phone number according to my school schedule and bus times",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paingha Joe Alagoa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nexmo": "^2.1.1",
+    "node-cron": "^1.2.1"
+  }
+}
